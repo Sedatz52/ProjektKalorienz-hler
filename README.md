@@ -1,2 +1,1 @@
 # ProjektKalorienz-hler
-ProjektKalorienzähler
