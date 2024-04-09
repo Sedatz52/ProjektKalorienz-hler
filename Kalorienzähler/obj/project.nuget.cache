@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R4xuHECGKIlFTHGbcbSg+EVzgEN5RY4nBBSTAD7/ZhloY6H2DkQhBQ9q84/y1gG8nxV7IjlqbwkGFY+b0x44vA==",
+  "dgSpecHash": "NlGtiWoOE/a0cfNLxk1WjkHyCIBmIaKXUUGjHf2K80UyoLMDKgyC7WndYCVp2c+9dBvUE4k9G1+KF0KEi3MgwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sedat.z2\\source\\repos\\ProjektKalorienz-hler\\Kalorienzähler\\Kalorienzähler.csproj",
+  "projectFilePath": "C:\\Users\\Sedat.z2\\Source\\Repos\\Sedatz52\\ProjektKalorienz-hler\\Kalorienzähler\\Kalorienzähler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sedat.z2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sedat.z2\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
