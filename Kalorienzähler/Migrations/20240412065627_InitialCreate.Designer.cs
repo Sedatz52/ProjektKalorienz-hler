@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Kalorienzähler.Migrations
 {
     [DbContext(typeof(KalorienzählerContext))]
-    [Migration("20240315093012_InitialCreate")]
+    [Migration("20240412065627_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

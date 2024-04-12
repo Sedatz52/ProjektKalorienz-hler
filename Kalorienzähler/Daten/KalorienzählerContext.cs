@@ -38,7 +38,7 @@ namespace Kalorienzähler.Daten
             if (!optionsBuilder.IsConfigured)
             {
                 // Konfigurieren der Verwendung der SQLite-Datenbank mit dem angegebenen Verbindungsstring
-                optionsBuilder.UseSqlite(@"Data Source=C:\Users\Sedat.z2\source\repos\ProjektKalorienz-hler\Kalorienzähler\Kalorien.db");
+                optionsBuilder.UseSqlite(@"Data Source=C:\Users\sedat.z2\Source\Repos\Sedatz52\ProjektKalorienz-hler\Kalorienzähler\kalorienzähler.db");
             }
 
             // Immer die Basis-Methode aufrufen, um das Basisverhalten einzuschließen
